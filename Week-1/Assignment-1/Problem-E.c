@@ -4,6 +4,7 @@ int main() {
     scanf("%d", &n);
 
     for(int i=1; i<=n; i++) {
+        // condition
         if(i%3 == 0 || i%5 == 0)
             printf("%d Yes\n", i);
         else 
