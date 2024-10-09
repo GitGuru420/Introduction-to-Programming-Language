@@ -6,6 +6,9 @@ int main() {
     int second_digit = n%10;
     int first_digit = n/10;
 
+    if(second_digit == 0) 
+        // corner case
+        printf("YES");
     if(first_digit % second_digit == 0 || second_digit % first_digit == 0)
         printf("YES");
     else 
