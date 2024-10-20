@@ -3,3 +3,5 @@
 3. Input and Output.
 4. Escape Sequences.
 5. Converting a string to integer number.
+
+String --> String is a collection of character.
