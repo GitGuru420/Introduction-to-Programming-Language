@@ -1,0 +1,5 @@
+1. What is string and why?
+2. Declaration and Initialization.
+3. Input and Output.
+4. Escape Sequences.
+5. Converting a string to integer number.
