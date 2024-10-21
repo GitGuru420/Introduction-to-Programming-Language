@@ -1,0 +1,5 @@
+Today Learning Topic:
+1. Copy an array
+2. Inserting an element
+3. Deleting an element
+4. Reversing an array
