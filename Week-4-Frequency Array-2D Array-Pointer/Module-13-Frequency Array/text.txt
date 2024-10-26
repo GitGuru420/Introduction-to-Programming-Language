@@ -1,0 +1,4 @@
+Topic Name: Frequency Array
+1. What is Frequency Array?
+2. How to Use Frequency Array?
+3. Searching a Value.
