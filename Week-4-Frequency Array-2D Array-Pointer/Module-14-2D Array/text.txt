@@ -1,0 +1,7 @@
+Topic: 2D Array
+1. What is 2D array and why?
+2. Declaration and initialization.
+3. Input and output.
+4. Matrix (Square, Diagonal, Scaler).
+5. Scaler matrix check.
+6. Solving problem.
