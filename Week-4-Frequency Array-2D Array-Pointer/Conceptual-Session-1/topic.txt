@@ -1,0 +1,6 @@
+1. frequency array recap
+2. 2D array recap
+3. Problem solving with frequency array
+4. Problem solving with 2D array
+5. Matrix
+6. Types of matrix
