@@ -1,0 +1,5 @@
+Topic: Pointer and Dynamic Array
+1. Pointer in C
+2. Pointer & Array
+3. Dynamic Array
+4. Pointer of Pointer
