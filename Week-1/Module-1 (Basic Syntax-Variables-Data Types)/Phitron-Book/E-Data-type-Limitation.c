@@ -4,7 +4,7 @@ int main() {
     printf("Population: %d\n", population);
 
     long long population2 = 10000000000;
-    printf("Population: %lld", population2);
+    printf("Population2: %lld", population2);
 
     return 0;
 }
