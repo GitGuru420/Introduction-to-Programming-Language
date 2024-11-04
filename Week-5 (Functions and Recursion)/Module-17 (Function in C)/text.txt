@@ -1,0 +1,6 @@
+Topic: Function 
+1. Function in C.
+2. Function Variations.
+3. Built in Functions.
+4. Scope.
+5. Function and Pointers.
