@@ -1,0 +1,11 @@
+# Data Type:
+1. Integer --> int (4 byte memory allocation)
+2. Character --> char (1 byte memory allocation)
+3. Floating --> float (4 byte memory allocation)
+            --> double (8 byte memory allocation)
+4. Boolean --> bool (1 byte memory allocation)
+5. Long Long Integer --> long long int (8 byte memory allocation)
+
+*** 1 byte = 8 bits
+n <= 10^9 --> int
+n > 10^9 --> long long int
