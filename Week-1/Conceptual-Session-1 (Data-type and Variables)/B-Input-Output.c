@@ -6,9 +6,12 @@ int main() {
 
     int x, y;
     char ch;
-    scanf("%d %d %c", &x, &y, &ch);
+    // scanf("%d %d %c", &x, &y, &ch);
+    // printf("Output x: %d\nOutput y: %d\nCharacter: %c\n", x, y, ch);
+    scanf("%d %d", &x ,&y);
+    getchar();
+    scanf("%c", &ch);
     printf("Output x: %d\nOutput y: %d\nCharacter: %c\n", x, y, ch);
-
     return 0;
 }
 
