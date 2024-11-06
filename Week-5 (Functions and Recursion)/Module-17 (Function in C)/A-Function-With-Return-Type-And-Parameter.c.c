@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Function with return type and parameter.
 /*
     return_type function_name(parameters) {
         statements;
