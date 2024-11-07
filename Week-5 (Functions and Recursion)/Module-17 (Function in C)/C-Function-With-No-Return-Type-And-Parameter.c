@@ -1,8 +1,9 @@
 #include <stdio.h>
+// Function with no return type and parameter.
 void add(int x, int y) {
-    printf("Add Function Calling\n");
+    // printf("Add Function Calling\n");
     int sum = x + y;
-    // printf("%d", sum);
+    printf("%d\n", sum);
 }
 
 void alphabetCheck(char ch) {
