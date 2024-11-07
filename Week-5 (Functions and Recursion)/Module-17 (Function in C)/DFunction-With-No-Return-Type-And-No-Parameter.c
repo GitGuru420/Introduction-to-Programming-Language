@@ -1,8 +1,8 @@
 #include <stdio.h>
 void add() {
+    printf("Add Function Calling\n");
     int a, b;
     scanf("%d %d", &a, &b);
-    printf("Add Function Calling\n");
     int sum = a + b;
     printf("%d", sum);
 }
